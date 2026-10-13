@@ -1,0 +1,12 @@
+# Private documents and generated data
+data/
+
+# Credentials
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environments
+.venv/
